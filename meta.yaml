@@ -1,0 +1,12 @@
+package:
+  name: csv-json
+  version: 1.0.2
+
+build:
+  number: 1
+
+requirements:
+  run:
+    - python
+about:
+  summary: This is a  meta-package
